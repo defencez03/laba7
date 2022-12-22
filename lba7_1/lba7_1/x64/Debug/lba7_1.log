@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Василий\source\repos\lba7_1\lba7_1\Source.cpp(12,2): warning C4091: typedef : пропускается слева от "Node", когда ни одна переменная не объявлена
+C:\Users\Василий\source\repos\lba7_1\lba7_1\Source.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lba7_1.vcxproj -> C:\Users\Василий\source\repos\lba7_1\x64\Debug\lba7_1.exe
